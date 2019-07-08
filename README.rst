@@ -27,7 +27,9 @@ Contributor
 -----------
 
 Contributors are welcomed. 
+
 To Contribute 
+
 - Find issue and fix issue
 - Dont save in ``master`` branch see below there will create pull request option
 - Create Pull Request
