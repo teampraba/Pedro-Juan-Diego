@@ -6,6 +6,6 @@ Pedro Juan&Diego
 Owners
 ------
 
-- `b0tdev <https://imgur.com/OrG5wse>`
+- `b0tdev <https://imgur.com/OrG5wse>`_
 
 
