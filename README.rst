@@ -6,7 +6,7 @@ Pedro Juan&Diego
 Owners
 ------
 
-.. image:: https://imgur.com/gallery/q9DRRdN.png
-   :target: https://imgur.com/gallery/q9DRRdN
+.. image:: https://imgur.com/q9DRRdN.png
+   :target: https://imgur.com/q9DRRdN
    :alt: b0tdev
 
